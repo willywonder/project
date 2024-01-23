@@ -1,0 +1,72 @@
+body {
+  /* background-color: black; */
+  background-image: url(images/imageadvisors.png);
+  /* background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 100vw;
+  height: 100vh; */
+  padding: 50px;
+}
+.sectioncontent {
+  width: 877px;
+  height: 271px;
+  flex-shrink: 0;
+  color: #97aad7;
+  font-family: "FONTSPRING DEMO - Roc Grotesk ExtraWide Medium";
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 164.8%; /* 95.584px */
+  letter-spacing: 2.9px;
+  text-transform: capitalize;
+}
+.header {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+ 
+}
+.countries {
+  display: flex;
+  gap: 15px;
+}
+.nairobi {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  gap: 10px;
+  font-family: montserrat;
+  
+}
+.berlin {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.nassau {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.footerContent {
+  display: flex;
+  justify-content: space-between;
+}
+.logoimg {
+  width: 148px;
+  height: 91px;
+  flex-shrink: 0;
+}
